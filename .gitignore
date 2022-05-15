@@ -1,4 +1,7 @@
-*.o
-dwm
 st
+dwm
 config.h
+*.o
+*.diff
+*.orig
+*.rej
